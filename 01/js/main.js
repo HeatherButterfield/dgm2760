@@ -4,7 +4,7 @@
 var company = "Joe's Bed and Breakfast";
 document.getElementById("company").innerHTML = company;
 
-var slogan = "Come enjoy the best little B&B this side of the Mississippi";
+var slogan = "Document Writing";
 document.getElementById("slogan").innerHTML = slogan;
 
 var person = prompt("Please enter your first name:", "Your name here...");
